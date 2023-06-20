@@ -22,7 +22,7 @@ const sortbyData = [
 ];
 
 const Explore = () => {
-
+   
   const [data, setData] = useState(null);
   const [pageNum, setPageNum] = useState(1);
   const [loading, setLoading] = useState(false);
