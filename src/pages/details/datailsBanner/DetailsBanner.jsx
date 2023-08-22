@@ -4,7 +4,7 @@ import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
 import { useParams } from 'react-router-dom'
 import useFetch from '../../../hooks/useFetch'
 import { useSelector } from 'react-redux'
-import Img from '../../../components/lazyLoadImage/img'
+import Img from '../../../components/lazyLoadImage/Img'
 import posterTemp from '../../../assets/no-poster.png';
 import dayjs from 'dayjs'
 import Genres from '../../../components/genres/Genres'
