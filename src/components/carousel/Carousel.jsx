@@ -8,7 +8,7 @@ import {
 } from "react-icons/bs";
 import ContentWrapper from '../contentWrapper/ContentWrapper';
 import posterTemp from '../../assets/no-poster.png'
-import Img from '../lazyLoadImage/img';
+import Img from '../lazyLoadImage/Img';
 import dayjs from 'dayjs';
 import CircleRating from '../circleRating/CircleRating';
 import Genres from '../genres/Genres';
