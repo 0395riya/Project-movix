@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import NoPoster from '../../assets/no-poster.png'
 import CircleRating from '../circleRating/CircleRating';
 import Genres from '../genres/Genres';
-import Img from '../lazyLoadImage/img';
+import Img from '../lazyLoadImage/Img';
 import dayjs from 'dayjs';
 
 const MovieCard = ({ data, fromSearch, mediaType }) => {
