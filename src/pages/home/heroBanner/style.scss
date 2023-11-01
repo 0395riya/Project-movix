@@ -29,7 +29,7 @@
             img {
                 width: 100%;
                 height: 100%;
-                object-fit: contain;
+                object-fit: initial;
                 object-position: center;
             }
         }
@@ -37,7 +37,7 @@
 
     .opacity-layer {
         width: 100%;
-        height: 250px;
+        height: 310px;
         background: linear-gradient(
             180deg,
             rgba(4, 21, 45, 0) 0%,
